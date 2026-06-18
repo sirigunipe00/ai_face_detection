@@ -79,6 +79,7 @@ class DashboardCard extends StatelessWidget {
                 subtitle,
                 textAlign: TextAlign.center,
                 style: TextStyle(
+                  overflow: TextOverflow.fade,
                   color: Colors.grey.shade600,
                 ),
               ),

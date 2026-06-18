@@ -1,4 +1,4 @@
-package com.example.ai_face_detection
+package `in`.easycloud.ai_face_detection
 
 import io.flutter.embedding.android.FlutterActivity
 

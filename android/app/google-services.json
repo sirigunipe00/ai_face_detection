@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343112537554",
+    "project_id": "ai-face-detection",
+    "storage_bucket": "ai-face-detection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343112537554:android:0c3b2662d437ec2e50e40b",
+        "android_client_info": {
+          "package_name": "in.easycloud.ai_face_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4TNl2LAS8UWAWY-OQGmWssC1N9asZyF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
